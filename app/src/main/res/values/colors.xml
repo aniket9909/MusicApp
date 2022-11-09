@@ -10,4 +10,7 @@
     <color name="primarydark">#221F1F</color>
     <color name="coloraccent">#ffffff</color>
     <color name="red">#D36860</color>
+    <color name="blue">#2196F3</color>
+    <color name="transparent">#00000000</color>
+    <color name="primary">#6D7373</color>
 </resources>
