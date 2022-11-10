@@ -3,12 +3,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:id="@+id/audio_items"
+    android:layout_marginTop="2dp"
     android:background="#111111">
     
     <ImageView
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:src="@drawable/ic_launcher_background"
+        android:src="@mipmap/ic_launcher_round"
         android:padding="5dp"
         android:id="@+id/music_img"/>
     <TextView

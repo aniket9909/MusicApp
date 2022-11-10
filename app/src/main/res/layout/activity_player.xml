@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".PlayerActivity"
     android:orientation="vertical"
-    android:id="@+id/myContainer"
+    android:id="@+id/mContainer"
     android:background="@drawable/main_bg">
     <RelativeLayout
         android:layout_width="wrap_content"
@@ -59,7 +59,7 @@
             android:layout_width="match_parent"
             android:layout_height="250dp"
             android:id="@+id/imageViewGrediant"
-            android:src="@drawable/gradiant_bg"
+
             android:layout_alignParentBottom="true"/>
         
     </RelativeLayout>
